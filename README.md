@@ -13,7 +13,7 @@ Add Artisan support for Kaleido sniper standard version. Use it as your own risk
   + Connect Dupont pin (black) to GND of ESP32.
   + Connect Dupont pin (red) to 5V of ESP32.
 
-# Connect Kaleido Pad to ESP32 (Optional)
+# Connect Kaleido Pad to ESP32 (Optional) (NOT for Kaleido old version with small smart pad)
 - Connect USB Male to USB Female on Kaleido Pad.
 - Connect Dupont pin (green) to IO26 of ESP32.
 - Connect Dupont pin (white) to IO25 of ESP32.
